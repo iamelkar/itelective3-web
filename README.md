@@ -8,7 +8,7 @@
 
 <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" align="center" height="70px" width="70px"></td>
+    <td style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" align="center" height="70px" width="70px"></td>
     <td>Laravel Breeze</td>
   </tr>
   <tr>
