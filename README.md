@@ -28,3 +28,13 @@
 A payroll management system is a system used by companies to help manage the computation, disbursement, and reporting of employees’ salaries efficiently and accurately. It is the combination of software, processes, services, hardware, and other systems that help automate the payroll process from the gathering of timekeeping information, computation of wages, to disbursement of salaries and payslips.
 
 A payroll management system also promotes better security and helps keep employee data confidential. Different levels of data access can be specified per user roles, from administrators to employees.
+
+## Subsystems
+
+* Login System
+* Administrative Billings and Collections System
+* Timecard system
+* Employees' Informations System
+* Payment Method System
+* Payroll Computation System
+* Payout System
