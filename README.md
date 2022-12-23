@@ -4,9 +4,19 @@
 
 # City Government of Cotabato
 
+## Frameworks
+
 <table>
   <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" align="left" height="70px" width="70px"></td>
-    <td>Laravel</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" align="center" height="70px" width="70px"></td>
+    <td>Laravel Breeze</td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" align="center" height="70px" width="70px"></td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td><img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" align="center" height="70px" width="70px"></td>
+    <td>MySQL</td>
   </tr>
 </table>
