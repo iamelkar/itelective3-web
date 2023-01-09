@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card</title>
+
+    <style> 
+        @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap');
+    </style>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+</head>
+<body class="bg-[#e7e7f1]">
+    <div class="flex flex-col items-center">
+        <div class="bg-white mt-10 drop-shadow-2xl rounded">
+            <div class="flex mt-7">
+                <img class="mx-auto w-36 h-36 p-4 rounded-full" src="pictures/me.jpg">
+            </div>
+
+            <div class="text-center pt-1">
+                <span class="text-xl text-[#1b1b1b] font-semibold font-['Noto_Sans_Kr']">Kharhyll Joy Laranio</span>
+                <span class="block pt-s text-sm text-[#7d7d7d] font-semibold font-['Noto_Sans_Kr']">Student</span>
+            </div>
+
+            <div class="mx-4 mt-7 grid grid-cols-3 gap-4">
+                <div class="text-center">
+                    <span class="tracking-wide text-sm text-[#a0a0a0] font-semibold font-['Noto_Sans_Kr']">Projects</span>
+                    <span class="block text-lg font-semibold font-['Noto_Sans_Kr']">0</span>
+                </div>
+
+                <div class="text-center">
+                    <span class="tracking-wide text-sm text-[#a0a0a0] font-semibold font-['Noto_Sans_Kr']">Following</span>
+                    <span class="block text-lg font-semibold font-['Noto_Sans_Kr']">100</span>
+                </div>
+
+                <div class="text-center">
+                    <span class="tracking-wide text-sm text-[#a0a0a0] font-semibold font-['Noto_Sans_Kr']">Followers</span>
+                    <span class="block text-lg font-semibold font-['Noto_Sans_Kr']">90</span>
+                </div>
+            </div>
+
+            <div class="w-96 mx-auto mt-8">
+                <p class="mx-12 leading-relaxed text-xs text-[#8c8c8c] text-center font-['Noto_Sans_Kr']">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin semper eleifend risus quis egestas. Ut feugiat ipsum ac lectus semper, et tincidunt turpis laoreet.</p>
+            </div>
+
+            <div class="mx-28 mt-7 grid grid-cols-4">
+                <div class="mx-auto">
+                    <button><img class="rounded-full w-7 h-7 hover:w-8 hover:h-8" src="icons/twitter.png"></button>                        
+                </div>
+
+                <div class="mx-auto">
+                    <button><img class="rounded-full w-6 h-6 hover:w-7 hover:h-7" src="icons/fb-icon.png"></button>                        
+                </div>
+
+                <div class="mx-auto">
+                    <button><img class="rounded-full w-6 h-6 hover:w-8 hover:h-8" src="icons/gmail.png"></button>                        
+                </div>
+
+                <div class="mx-auto">
+                    <button><img class="rounded-full w-6 h-6 hover:w-8 hover:h-8" src="icons/discord.png"></button>                        
+                </div>
+            </div>
+
+            <div class="flex mb-12 mt-8">
+                <button class="mx-auto rounded-3xl py-3 px-16 bg-[#31b6bf] shadow-xl hover:bg-green-500"><span class="text-base font-medium text-white font-['Noto_Sans_Kr']">View Profile</span></button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
